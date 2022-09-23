@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpmahlaole" alt="kpmahlaole" /></a> </p>
 
-- 🔭 I’m currently working on **Foremost - PHP webapp**
+- 🔭 I’m currently working on **Something cool**
 
 - 👯 I’m looking to collaborate on **PHP projects**
 
