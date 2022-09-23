@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Katlego Mahlaole</h1>
-<h3 align="center">A passionate frontend developer and Software Developer</h3>
+<h3 align="center">
+A passionate and energetic Full Stack Web Developer and vibrant individual that is always seeking opportunities and curious about Technology.
+</h3>
 
 - 🔭 I’m currently working on **Something cool**
 
-- 👯 I’m looking to collaborate on **PHP projects**
+- 👯 I’m looking to collaborate on **both client and server software**
 
 - 🤝 I’m looking for help with **JAVA and C++**
 
